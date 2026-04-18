@@ -1,4 +1,9 @@
 {
-  "start_time": null,
-  "temperature_history": []
+  "start_time": "2026-04-18T19:00:50.871696+00:00",
+  "temperature_history": [
+    {
+      "time": "2026-04-18T19:00:50.871696+00:00",
+      "temperature": 20.3
+    }
+  ]
 }
